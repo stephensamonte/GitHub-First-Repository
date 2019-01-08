@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+My First GitHub Project Repository
 
 The quick brown fox jumps over the lazy dog. 
